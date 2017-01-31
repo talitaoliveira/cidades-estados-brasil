@@ -25,6 +25,17 @@ h1{
 	text-align: center;
 }
 
+.nome-pais{
+	background-size: 180px;
+	background-position: -30px -43px;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png);
+	font-family: "Arial";
+	font-weight: bolder;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	text-shadow:rgba(0,0,0,.1) 1px -1px,rgba(0,0,0,.01) -1px 1px, rgba(0,0,0,.01) 1px 1px, rgba(0,0,0,.01) -1px -1px;
+}
+
 .container{
 	width: 60vw;
 	max-width: 600px;
